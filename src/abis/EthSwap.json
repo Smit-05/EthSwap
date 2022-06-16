@@ -17,21 +17,21 @@
       "type": "function"
     }
   ],
-  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"constant\":true,\"inputs\":[],\"name\":\"name\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/D/Backup/Dell/Desktop/Smit/BlockChain/CryptoExchange/EthSwap/src/contracts/EthSwap.sol\":\"EthSwap\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/D/Backup/Dell/Desktop/Smit/BlockChain/CryptoExchange/EthSwap/src/contracts/EthSwap.sol\":{\"keccak256\":\"0x38c6b8553f17230c24e4581cbaee77e5f1e41a22fcefa0407bdebc59e22ec37b\",\"urls\":[\"bzz-raw://17be0141d7d373bd705550fc59a4a39b2d389c3bc70fc06eb9d49bcef9276d18\",\"dweb:/ipfs/QmW93jBWWYrX4xqx2LjNSNrRgWXdGcjRmfxGhKx2jkuKxN\"]}},\"version\":1}",
-  "bytecode": "0x60806040526040518060400160405280601881526020017f4574685377617020496e7374616e742045786368616e676500000000000000008152506000908051906020019061004f929190610062565b5034801561005c57600080fd5b50610107565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f106100a357805160ff19168380011785556100d1565b828001600101855582156100d1579182015b828111156100d05782518255916020019190600101906100b5565b5b5090506100de91906100e2565b5090565b61010491905b808211156101005760008160009055506001016100e8565b5090565b90565b610186806101166000396000f3fe608060405234801561001057600080fd5b506004361061002b5760003560e01c806306fdde0314610030575b600080fd5b6100386100b3565b6040518080602001828103825283818151815260200191508051906020019080838360005b8381101561007857808201518184015260208101905061005d565b50505050905090810190601f1680156100a55780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b60008054600181600116156101000203166002900480601f0160208091040260200160405190810160405280929190818152602001828054600181600116156101000203166002900480156101495780601f1061011e57610100808354040283529160200191610149565b820191906000526020600020905b81548152906001019060200180831161012c57829003601f168201915b50505050508156fea265627a7a72315820e2b9b03b07bf7ab56c52d81be1fe3e9597b06818743f9881e4b958978350d88564736f6c63430005100032",
-  "deployedBytecode": "0x608060405234801561001057600080fd5b506004361061002b5760003560e01c806306fdde0314610030575b600080fd5b6100386100b3565b6040518080602001828103825283818151815260200191508051906020019080838360005b8381101561007857808201518184015260208101905061005d565b50505050905090810190601f1680156100a55780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b60008054600181600116156101000203166002900480601f0160208091040260200160405190810160405280929190818152602001828054600181600116156101000203166002900480156101495780601f1061011e57610100808354040283529160200191610149565b820191906000526020600020905b81548152906001019060200180831161012c57829003601f168201915b50505050508156fea265627a7a72315820e2b9b03b07bf7ab56c52d81be1fe3e9597b06818743f9881e4b958978350d88564736f6c63430005100032",
-  "sourceMap": "27:78:0:-;;;52:45;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;27:78;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:78:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;:::o;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o;:::-;;;;;;;",
-  "deployedSourceMap": "27:78:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:78:0;;;;;;;;;;;;;;;;;;;52:45;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23:1:-1;8:100;33:3;30:1;27:10;8:100;;;99:1;94:3;90:11;84:18;80:1;75:3;71:11;64:39;52:2;49:1;45:10;40:15;;8:100;;;12:14;52:45:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o",
-  "source": "pragma solidity ^0.5.0;\r\n\r\ncontract EthSwap{\r\n\r\n    string public name=\"EthSwap Instant Exchange\";\r\n\r\n\r\n}",
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"constant\":true,\"inputs\":[],\"name\":\"name\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/D/Backup/Dell/Desktop/Smit/BlockChain/CryptoExchange/EthSwap/src/contracts/EthSwap.sol\":\"EthSwap\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/D/Backup/Dell/Desktop/Smit/BlockChain/CryptoExchange/EthSwap/src/contracts/EthSwap.sol\":{\"keccak256\":\"0x0d38f49e3e2bfa530772802cfc500a8f96cfd7a1d9f59e9eee29abd259dc70b1\",\"urls\":[\"bzz-raw://988f04e80600e5a35b0360474ab34c0cc18a1b9da9551242cbb107f782a62daa\",\"dweb:/ipfs/QmS9UDresnFHxwVQmwi8mUqbXMf8LCQcAoJdrVkpyAacg2\"]},\"/D/Backup/Dell/Desktop/Smit/BlockChain/CryptoExchange/EthSwap/src/contracts/Token.sol\":{\"keccak256\":\"0x80ceaef82dea76cf09030124bee88ff3676a04ce9f09013baae4dd79f29b6eb8\",\"urls\":[\"bzz-raw://b851cebb6764a9697967ba6fefd8abbb3cbc97f514262dadc7884a8243d16bf8\",\"dweb:/ipfs/QmU26NVsHbNeD5D32CVkMn2F7egkVhGxaXutKbNKCfndzi\"]}},\"version\":1}",
+  "bytecode": "0x60806040526040518060400160405280601881526020017f4574685377617020496e7374616e742045786368616e676500000000000000008152506000908051906020019061004f929190610062565b5034801561005c57600080fd5b50610107565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f106100a357805160ff19168380011785556100d1565b828001600101855582156100d1579182015b828111156100d05782518255916020019190600101906100b5565b5b5090506100de91906100e2565b5090565b61010491905b808211156101005760008160009055506001016100e8565b5090565b90565b610186806101166000396000f3fe608060405234801561001057600080fd5b506004361061002b5760003560e01c806306fdde0314610030575b600080fd5b6100386100b3565b6040518080602001828103825283818151815260200191508051906020019080838360005b8381101561007857808201518184015260208101905061005d565b50505050905090810190601f1680156100a55780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b60008054600181600116156101000203166002900480601f0160208091040260200160405190810160405280929190818152602001828054600181600116156101000203166002900480156101495780601f1061011e57610100808354040283529160200191610149565b820191906000526020600020905b81548152906001019060200180831161012c57829003601f168201915b50505050508156fea265627a7a72315820d6e0bb81aa44875ffec3e899e2b26a9499ee0c7d2ad8480cf4599e86c4175cb564736f6c63430005100032",
+  "deployedBytecode": "0x608060405234801561001057600080fd5b506004361061002b5760003560e01c806306fdde0314610030575b600080fd5b6100386100b3565b6040518080602001828103825283818151815260200191508051906020019080838360005b8381101561007857808201518184015260208101905061005d565b50505050905090810190601f1680156100a55780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b60008054600181600116156101000203166002900480601f0160208091040260200160405190810160405280929190818152602001828054600181600116156101000203166002900480156101495780601f1061011e57610100808354040283529160200191610149565b820191906000526020600020905b81548152906001019060200180831161012c57829003601f168201915b50505050508156fea265627a7a72315820d6e0bb81aa44875ffec3e899e2b26a9499ee0c7d2ad8480cf4599e86c4175cb564736f6c63430005100032",
+  "sourceMap": "52:78:0:-;;;77:45;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;52:78;8:9:-1;5:2;;;30:1;27;20:12;5:2;52:78:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;:::o;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o;:::-;;;;;;;",
+  "deployedSourceMap": "52:78:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;52:78:0;;;;;;;;;;;;;;;;;;;77:45;;;:::i;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23:1:-1;8:100;33:3;30:1;27:10;8:100;;;99:1;94:3;90:11;84:18;80:1;75:3;71:11;64:39;52:2;49:1;45:10;40:15;;8:100;;;12:14;77:45:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o",
+  "source": "pragma solidity ^0.5.0;\r\n\r\nimport \"./Token.sol\";\r\n\r\ncontract EthSwap{\r\n\r\n    string public name=\"EthSwap Instant Exchange\";\r\n\r\n\r\n}",
   "sourcePath": "D:\\Backup\\Dell\\Desktop\\Smit\\BlockChain\\CryptoExchange\\EthSwap\\src\\contracts\\EthSwap.sol",
   "ast": {
     "absolutePath": "/D/Backup/Dell/Desktop/Smit/BlockChain/CryptoExchange/EthSwap/src/contracts/EthSwap.sol",
     "exportedSymbols": {
       "EthSwap": [
-        5
+        6
       ]
     },
-    "id": 6,
+    "id": 7,
     "nodeType": "SourceUnit",
     "nodes": [
       {
@@ -46,25 +46,36 @@
         "src": "0:23:0"
       },
       {
+        "absolutePath": "/D/Backup/Dell/Desktop/Smit/BlockChain/CryptoExchange/EthSwap/src/contracts/Token.sol",
+        "file": "./Token.sol",
+        "id": 2,
+        "nodeType": "ImportDirective",
+        "scope": 7,
+        "sourceUnit": 245,
+        "src": "27:21:0",
+        "symbolAliases": [],
+        "unitAlias": ""
+      },
+      {
         "baseContracts": [],
         "contractDependencies": [],
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 5,
+        "id": 6,
         "linearizedBaseContracts": [
-          5
+          6
         ],
         "name": "EthSwap",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "constant": false,
-            "id": 4,
+            "id": 5,
             "name": "name",
             "nodeType": "VariableDeclaration",
-            "scope": 5,
-            "src": "52:45:0",
+            "scope": 6,
+            "src": "77:45:0",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -72,10 +83,10 @@
               "typeString": "string"
             },
             "typeName": {
-              "id": 2,
+              "id": 3,
               "name": "string",
               "nodeType": "ElementaryTypeName",
-              "src": "52:6:0",
+              "src": "77:6:0",
               "typeDescriptions": {
                 "typeIdentifier": "t_string_storage_ptr",
                 "typeString": "string"
@@ -84,14 +95,14 @@
             "value": {
               "argumentTypes": null,
               "hexValue": "4574685377617020496e7374616e742045786368616e6765",
-              "id": 3,
+              "id": 4,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
               "kind": "string",
               "lValueRequested": false,
               "nodeType": "Literal",
-              "src": "71:26:0",
+              "src": "96:26:0",
               "subdenomination": null,
               "typeDescriptions": {
                 "typeIdentifier": "t_stringliteral_0cd767832a4b45e13c98bb05545343ab53826a9ea9075205b12bb04a1062f40e",
@@ -102,20 +113,20 @@
             "visibility": "public"
           }
         ],
-        "scope": 6,
-        "src": "27:78:0"
+        "scope": 7,
+        "src": "52:78:0"
       }
     ],
-    "src": "0:105:0"
+    "src": "0:130:0"
   },
   "legacyAST": {
     "absolutePath": "/D/Backup/Dell/Desktop/Smit/BlockChain/CryptoExchange/EthSwap/src/contracts/EthSwap.sol",
     "exportedSymbols": {
       "EthSwap": [
-        5
+        6
       ]
     },
-    "id": 6,
+    "id": 7,
     "nodeType": "SourceUnit",
     "nodes": [
       {
@@ -130,25 +141,36 @@
         "src": "0:23:0"
       },
       {
+        "absolutePath": "/D/Backup/Dell/Desktop/Smit/BlockChain/CryptoExchange/EthSwap/src/contracts/Token.sol",
+        "file": "./Token.sol",
+        "id": 2,
+        "nodeType": "ImportDirective",
+        "scope": 7,
+        "sourceUnit": 245,
+        "src": "27:21:0",
+        "symbolAliases": [],
+        "unitAlias": ""
+      },
+      {
         "baseContracts": [],
         "contractDependencies": [],
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 5,
+        "id": 6,
         "linearizedBaseContracts": [
-          5
+          6
         ],
         "name": "EthSwap",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "constant": false,
-            "id": 4,
+            "id": 5,
             "name": "name",
             "nodeType": "VariableDeclaration",
-            "scope": 5,
-            "src": "52:45:0",
+            "scope": 6,
+            "src": "77:45:0",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -156,10 +178,10 @@
               "typeString": "string"
             },
             "typeName": {
-              "id": 2,
+              "id": 3,
               "name": "string",
               "nodeType": "ElementaryTypeName",
-              "src": "52:6:0",
+              "src": "77:6:0",
               "typeDescriptions": {
                 "typeIdentifier": "t_string_storage_ptr",
                 "typeString": "string"
@@ -168,14 +190,14 @@
             "value": {
               "argumentTypes": null,
               "hexValue": "4574685377617020496e7374616e742045786368616e6765",
-              "id": 3,
+              "id": 4,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
               "kind": "string",
               "lValueRequested": false,
               "nodeType": "Literal",
-              "src": "71:26:0",
+              "src": "96:26:0",
               "subdenomination": null,
               "typeDescriptions": {
                 "typeIdentifier": "t_stringliteral_0cd767832a4b45e13c98bb05545343ab53826a9ea9075205b12bb04a1062f40e",
@@ -186,11 +208,11 @@
             "visibility": "public"
           }
         ],
-        "scope": 6,
-        "src": "27:78:0"
+        "scope": 7,
+        "src": "52:78:0"
       }
     ],
-    "src": "0:105:0"
+    "src": "0:130:0"
   },
   "compiler": {
     "name": "solc",
@@ -200,13 +222,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x1D39d7BcEF5B3A564726ED459710bC7aC94CA103",
-      "transactionHash": "0xcab777a4a8e1dff5d214b7670275a43941f66ed9fc8185ee0aa60f00f44c4e81"
+      "address": "0x0e512fEC6f9f07EC9ce521f20cA4fEbBd857876d",
+      "transactionHash": "0x86bba2dbb9730c9593a2372ee05d4bf087b6da60f0c986bd1a8b12f44264c630"
     }
   },
   "schemaVersion": "3.0.23",
-  "updatedAt": "2022-06-16T14:26:52.550Z",
-  "networkType": "ethereum",
+  "updatedAt": "2022-06-16T15:12:08.576Z",
   "devdoc": {
     "methods": {}
   },
